@@ -25,7 +25,7 @@ fn ai(query string) !string {
 		},
 		Message{
 			role:    'user'
-			content: query
+			content: 'What ${query}'
 		},
 	]
 

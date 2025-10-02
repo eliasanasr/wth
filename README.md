@@ -30,12 +30,6 @@ then run:
 ./wth is 3 feet in meters
 ```
 
-you can skip the 'is' if you want, like:
-
-```bash
-./wth 3 feet in meters
-```
-
 ## what it does
 
 it sends your query to a local ai model via ollama and gives back a short answer with a brief explanation.
